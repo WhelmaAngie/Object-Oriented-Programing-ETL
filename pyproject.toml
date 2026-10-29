@@ -1,0 +1,8 @@
+﻿[project]
+name = "day4-oop-etl"
+version = "0.1.0"
+description = "Reusable object-oriented ETL framework for logistics data"
+requires-python = ">=3.14"
+dependencies = [
+    "requests>=2.31.0",
+]
