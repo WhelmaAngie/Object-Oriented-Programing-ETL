@@ -55,7 +55,7 @@ day4-oop-etl/
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/WhelmaAngie/Object-Oriented-Programing-ETL.git
 cd day4-oop-etl
 ```
 
@@ -153,3 +153,4 @@ The extractors were manually tested with a missing CSV file and an invalid URL. 
 ## Author
 
 Whelma Bange Nyabuto
+
